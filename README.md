@@ -24,10 +24,20 @@ Instalar base de datos de manera local para el funcionamiento del aplicativo web
 Instalación de dependencias
 ----------------------------
 ```
-npm install ó npm -i
+$ npm install ó $ npm -i
+$ yarn install ó $ yarn i
 ```
+Correr el proyecto
+-------------------------------
 ```
-yarn install ó yarn i
+$ npm run dev
+$ yarn dev
 ```
+Modo de producción
+```
+$ npm run start
+$ yarn start
+```
+
 
 [GitHub](https://github.com/JhonE17)
