@@ -29,6 +29,7 @@ $ yarn install ó $ yarn i
 ```
 Correr el proyecto
 -------------------------------
+Modo de desarrollo
 ```
 $ npm run dev
 $ yarn dev
