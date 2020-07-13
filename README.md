@@ -2,7 +2,7 @@
 
 Descripción
 =========
-Api rest ful del aplicativo web control unity, siendo el motor interno el cual le da vida al front relizando operaciones internas para poderle arrojar un reusultado al usuario dependiendo de la fucnión que este desee ejecutar.
+Api rest ful del aplicativo web control unity, siendo el motor interno el cual le da vida al front relizando operaciones internas para poder arrojar le un resultado al usuario dependiendo de la fucnión que este desee ejecutar.
 Para el uso de esta api es necesario el instalar una serie de compones y depencias dependiendo de el sistema operativo en el que se encuentren.
 
 ### Demo del proyecto (https://controlunity.netlify.app/)
